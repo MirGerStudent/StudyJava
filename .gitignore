@@ -1,0 +1,7 @@
+# .gitignore
+/Lections
+/Data
+/StringProcessor
+/String_Server
+/HelloWorld/src/sem1.java
+/HelloWorld/out/production/HelloWorld/sem1.class
